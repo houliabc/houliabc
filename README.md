@@ -23,14 +23,14 @@
 
 ![Python][python-badge] ![TypeScript][typescript-badge] ![JavaScript][javascript-badge] ![Go][go-badge] ![Java][java-badge]
 
-<!-- ### Frameworks & Libraries
+### Frameworks & Libraries
 
 ![React][react-badge] ![Next.js][nextjs-badge] ![Vue][vue-badge] ![Nuxt.js][nuxt-badge] ![Expo][expo-badge]
 
 ### Tools & DevOps
 
 ![pnpm][pnpm-badge] ![Cloudflare][cloudflare-badge] ![Vercel][vercel-badge]
-![Docker][docker-badge] -->
+![Docker][docker-badge]
 
 ### Databases
 
@@ -38,31 +38,33 @@
 
 <!-- ## 🧩 Personal Projects
 
-- [SuzuBlog](https://github.com/ZL-Asica/SuzuBlog) - A minimalist and fast Next.js blog template, one-click deploy, writing in Markdown.
+- [SuzuBlog](https://github.com/houliabc/SuzuBlog) - A minimalist and fast Next.js blog template, one-click deploy, writing in Markdown.
 
   _Next.js · Markdown · YAML Config · SEO Optimization · llms.txt Support · Disqus/Twikoo Integration_
 
-- [EnjuFolio](https://github.com/ZL-Asica/Enju-Portfolio) - A MDX-based personal academic portfolio built with Next.js.
+- [EnjuFolio](https://github.com/houliabc/Enju-Portfolio) - A MDX-based personal academic portfolio built with Next.js.
 
   _Next.js · MDX · Tailwind · SEO Optimization_
 
-- [React](https://github.com/ZL-Asica/React) - is not a reimplementation of React itself. It is a collection of reusable React hooks, utilities, and tools.
+- [React](https://github.com/houliabc/React) - is not a reimplementation of React itself. It is a collection of reusable React hooks, utilities, and tools.
 
   _React · Vitest · V8 Coverage · VitePress · tsup · React Hooks · Utility Functions_
 
-- [Daily arXiv Digest](https://github.com/ZL-Asica/daily-arXiv-digest) - A Langchain and GitHub-action based arXiv daily crawler with LLM enhanced personalized summarization.
+- [Daily arXiv Digest](https://github.com/houliabc/daily-arXiv-digest) - A Langchain and GitHub-action based arXiv daily crawler with LLM enhanced personalized summarization.
 
   _LangChain · GitHub Actions · Crawler · OpenAI API · Markdown Digest_
 
-- [Gravatar Worker](https://github.com/ZL-Asica/Gravatar-Worker) - Hono and WebAssembly mirror site, hosted on Cloudflare Worker Edge environment.
+- [Gravatar Worker](https://github.com/houliabc/Gravatar-Worker) - Hono and WebAssembly mirror site, hosted on Cloudflare Worker Edge environment.
 
   _Hono · WebAssembly · Cloudflare Worker_ -->
 
 ---
 
 [![GitHub Profile][gh-profile-card]][gh-profile-card-link]
+[![GitHub Stats][gh-stats]][gh-profile-card-link]  
+[![Top Languages][gh-languages]][gh-profile-card-link] 
+<!-- ![Visitor Count](https://profile-counter.glitch.me/houliabc/count.svg) -->
 
-[![GitHub Stats][gh-stats]][gh-profile-card-link]  [![Top Languages][gh-languages]][gh-profile-card-link] 
 
 <details>
   <summary>Ever wondered where my time goes? ⏳🔍</summary>
@@ -74,34 +76,32 @@
 
 <!--
 
-[gitHub-streak-img]: https://streak-stats.demolab.com?user=ZL-Asica&theme=ambient-gradient&hide_border=true&card_width=200&card_height=150&hide_total_contributions=true&hide_longest_streak=true
+[gitHub-streak-img]: https://streak-stats.demolab.com?user=houliabc&theme=ambient-gradient&hide_border=true&card_width=200&card_height=150&hide_total_contributions=true&hide_longest_streak=true
 [streak-stats-link]: https://git.io/streak-stats
 
 [github-stats-link]: https://github.com/anuraghazra/github-readme-stats
 
 [github-stats-img]: https://github-readme-stats.vercel.app/api?username=houliabc&show_icons=true&count_private=true&hide_title=true&hide_rank=true
 
-[top-languages-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=zl-asica&layout=compact&hide=css,liquid,scss
+[top-languages-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=houliabc&layout=compact&hide=css,liquid,scss
 
 -->
 
-[cloudflare-badge]: https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white
-[expo-badge]: https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff
-[firebase-badge]: https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white
+<!-- 卡片开始 -->
+[gh-stats]: https://github-readme-stats.vercel.app/api?username=houliabc&show_icons=true&theme=tokyonight
 
 
 [gh-profile-card]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houliabc&theme=tokyonight
+<!-- [gh-stats]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/3-stats.svg -->
 
-[gh-stats]: https://raw.githubusercontent.com/ZL-Asica/ZL-Asica/main/profile-summary-card-output/tokyonight/3-stats.svg
+[gh-languages]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg
 
-<!-- [gh-stats]: https://raw.githubusercontent.com/ZL-Asica/ZL-Asica/main/profile-summary-card-output/tokyonight/3-stats.svg -->
+[gh-time]: https://raw.githubusercontent.com/houliabc/houliab fc/main/profile-summary-card-output/tokyonight/4-productive-time.svg
 
-[gh-languages]: https://raw.githubusercontent.com/ZL-Asica/ZL-Asica/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg
+[gh-profile-card-link]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/0-profile-details.svg
 
-[gh-time]: https://raw.githubusercontent.com/ZL-Asica/ZL-Asica/main/profile-summary-card-output/tokyonight/4-productive-time.svg
 
-[gh-profile-card-link]: https://raw.githubusercontent.com/ZL-Asica/ZL-Asica/main/profile-summary-card-output/tokyonight/0-profile-details.svg
-
+<!-- badge -->
 [hono-badge]: https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff
 [javascript-badge]: https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black
 [nextjs-badge]: https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white
@@ -121,3 +121,6 @@
 [java-badge]: https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white
 [bun-badge]: https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff
 [pnpm-badge]: https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff
+[cloudflare-badge]: https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white
+[expo-badge]: https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff
+[firebase-badge]: https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white
