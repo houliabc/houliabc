@@ -15,36 +15,32 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # 步骤1：拉取仓库代码（默认拉取当前仓库的默认分支，这里需要显式拉取main）
+      # 步骤1：拉取 main 分支所有内容（保留原有文件）
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          ref: main  # 拉取main分支的所有内容
+          ref: main  # 拉取 main 分支的全部内容
 
-      # 步骤2：生成蛇形图片（输出到临时目录，避免覆盖原有内容）
+      # 步骤2：生成蛇形图片到临时目录
       - name: Generate snake images
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # 生成到临时目录 temp-dist，避免覆盖main分支原有文件
+            # 生成到临时目录 temp-dist
             temp-dist/github-contribution-grid-snake.svg
             temp-dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 步骤3：将生成的图片复制到main分支的指定目录（如 images 文件夹，避免混乱）
-      - name: Copy images to main branch
+      # 步骤3：直接将图片复制到 main 分支根目录（不创建文件夹）
+      - name: Copy images to main root
         run: |
-          # 创建存放图片的目录（如果不存在）
-          mkdir -p ./images
-          # 将临时目录的图片复制到main分支的 images 目录
-          cp -r temp-dist/* ./images/
+          # 直接复制临时目录的图片到当前目录（main 分支根目录）
+          cp temp-dist/* ./
 
-      # 步骤4：提交并推送修改（保留原有内容，只新增/更新图片）
+      # 步骤4：提交并推送（保留原有内容，仅新增/更新图片）
       - name: Push to main branch
         uses: ad-m/github-push-action@v0.6.0
         with:
-          branch: main  # 推送到main分支
-          # 提交信息
-          message: "Update snake images"
-          # 推送所有修改（包括原有内容+新图片）
+          branch: main
+          message: "Update snake images in root"
           github_token: ${{ secrets.GITHUB_TOKEN }}
