@@ -21,21 +21,24 @@
 
 ### Languages
 
-![Python][python-badge] ![TypeScript][typescript-badge] ![JavaScript][javascript-badge] ![Go][go-badge] ![Java][java-badge]
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python][python-badge] ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff) ![JavaScript][javascript-badge] ![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=fff) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+<!-- ![TypeScript][typescript-badge] ![Go][go-badge] ![Java][java-badge] -->
 
-### Frameworks & Libraries
+<!-- ### Frameworks & Libraries
 
-![React][react-badge] ![Next.js][nextjs-badge] ![Vue][vue-badge] ![Nuxt.js][nuxt-badge] ![Expo][expo-badge]
+![React][react-badge] ![Next.js][nextjs-badge] ![Vue][vue-badge] ![Nuxt.js][nuxt-badge] ![Expo][expo-badge] -->
 
 ### Tools & DevOps
 
-![pnpm][pnpm-badge] ![Cloudflare][cloudflare-badge] ![Vercel][vercel-badge]
-![Docker][docker-badge]
+![](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) ![Cloudflare][cloudflare-badge] ![Vercel][vercel-badge] ![Docker][docker-badge] 
+<!-- ![pnpm][pnpm-badge]  -->
 
 ### Databases
 
-![Postgres][psql-badge] ![MySQL][mysql-badge] ![MongoDB][mongo-badge]
+![MySQL][mysql-badge] ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
+<!-- ![Postgres][psql-badge]  ![MongoDB][mongo-badge] -->
 
+<!-- [![Alipay](https://img.shields.io/badge/Alipay-1677FF?logo=alipay&logoColor=fff)](#) -->
 <!-- ## 🧩 Personal Projects
 
 - [SuzuBlog](https://github.com/houliabc/SuzuBlog) - A minimalist and fast Next.js blog template, one-click deploy, writing in Markdown.
@@ -67,12 +70,6 @@
 <!-- [![Top Languages][gh-languages]][gh-profile-card-link]  -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=houliabc&locale=en&hide_title=false&layout=compact&card_width=470&langs_count=10&theme=dracula&hide_border=false"/>
 
-
-<details>
-  <summary>Ever wondered where my time goes? ⏳🔍</summary>
-  [![GitHub Time][gh-time]][gh-profile-card-link] 
-</details>
-
 <!-- 卡片开始 -->
 [gh-stats]: https://github-readme-stats.vercel.app/api?username=houliabc&show_icons=true&theme=tokyonight
 
@@ -83,8 +80,7 @@
 
 <!-- [gh-stats]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/3-stats.svg -->
 <!-- [gh-languages]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg -->
-
-[gh-time]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/4-productive-time.svg
+<!-- [gh-time]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/4-productive-time.svg -->
 
 
 
