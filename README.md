@@ -60,6 +60,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/houliabc/houliabc/refs/heads/output/github-contribution-grid-snake.svg" style="zoom:150%;" />
+
 [![GitHub Profile][gh-profile-card]][gh-profile-card-link]
 [![GitHub Stats][gh-stats]][gh-profile-card-link]  
 <!-- [![Top Languages][gh-languages]][gh-profile-card-link]  -->
@@ -68,37 +70,22 @@
 
 <details>
   <summary>Ever wondered where my time goes? ⏳🔍</summary>
-
-
   [![GitHub Time][gh-time]][gh-profile-card-link] 
-
 </details>
-
-<!--
-
-[gitHub-streak-img]: https://streak-stats.demolab.com?user=houliabc&theme=ambient-gradient&hide_border=true&card_width=200&card_height=150&hide_total_contributions=true&hide_longest_streak=true
-[streak-stats-link]: https://git.io/streak-stats
-
-[github-stats-link]: https://github.com/anuraghazra/github-readme-stats
-
-[github-stats-img]: https://github-readme-stats.vercel.app/api?username=houliabc&show_icons=true&count_private=true&hide_title=true&hide_rank=true
-
-[top-languages-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=houliabc&layout=compact&hide=css,liquid,scss
-
--->
 
 <!-- 卡片开始 -->
 [gh-stats]: https://github-readme-stats.vercel.app/api?username=houliabc&show_icons=true&theme=tokyonight
 
 
 [gh-profile-card]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houliabc&theme=tokyonight
-<!-- [gh-stats]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/3-stats.svg -->
-
-[gh-languages]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg
-
-[gh-time]: https://raw.githubusercontent.com/houliabc/houliab fc/main/profile-summary-card-output/tokyonight/4-productive-time.svg
 
 [gh-profile-card-link]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/0-profile-details.svg
+
+<!-- [gh-stats]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/3-stats.svg -->
+<!-- [gh-languages]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg -->
+
+[gh-time]: https://raw.githubusercontent.com/houliabc/houliabc/main/profile-summary-card-output/tokyonight/4-productive-time.svg
+
 
 
 <!-- badge -->
