@@ -62,8 +62,8 @@
 
 [![GitHub Profile][gh-profile-card]][gh-profile-card-link]
 [![GitHub Stats][gh-stats]][gh-profile-card-link]  
-[![Top Languages][gh-languages]][gh-profile-card-link] 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/houliabc/count.svg) -->
+<!-- [![Top Languages][gh-languages]][gh-profile-card-link]  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=houliabc&locale=en&hide_title=false&layout=compact&card_width=470&langs_count=10&theme=dracula&hide_border=false"/>
 
 
 <details>
